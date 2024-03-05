@@ -19,7 +19,7 @@ Desenvolvedor apaixonado por criar soluções inovadoras e contribuir para a com
 
 ## 📫 Entre em Contato
 
-- LinkedIn: [Erickson Augustol(https://www.linkedin.com/in/erickson-augusto)
+- LinkedIn: [Erickson Augustol](https://www.linkedin.com/in/erickson-augusto)
 - Email: ericksonaugustocesardias@gmail.com
 
 
