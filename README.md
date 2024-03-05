@@ -1,10 +1,37 @@
-- 👋 Hi, I’m @EricksonLOOP
-- 👀 I’m interested in Front-end developing
-- 🌱 I’m currently learning JavaScript and REACT.js
-- 💞️ I’m looking to collaborate on projects about games or tech world
-- 📫 How to reach me maybe on the WhatsApp (+55) 75 998643893 or in email ericksonagust45@gmail.com
+# Olá, eu sou [Erickson A. C. Dias]! 👋
 
-<!---
-EricksonLOOP/EricksonLOOP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Desenvolvedor apaixonado por criar soluções inovadoras e contribuir para a comunidade de código aberto.
+
+## 🚀 Tecnologias
+
+- Linguagens: Java, JavaScript, HTML5, CSS3
+- Banco de Dados: MySQL, PostgreSQL
+- Frameworks: Spring Boot, React, BootStrap, SASS
+
+## 💼 Projetos em Destaque
+
+- [MEGA CD's](https://megacds.com.br/): MEGA CD's é uma plataforma de streaming de audio!
+   FrontEnd Desenvolvido com SASS e BOOTSTRAP
+   Backend Desenvolvido com PHP, SQL, AJAX e FireBase
+- [Audio Streaming](https://streamingaudio.com.br/): Quer ter sua própria radio? Aqui é o lugar!
+  FrontEnd Desenvolvido com React, BOOTSTRAP e NicePage.
+  BackEnd Desenvolvido com Firebase Google completo.
+
+## 📫 Entre em Contato
+
+- LinkedIn: [Erickson Augustol(https://www.linkedin.com/in/erickson-augusto)
+- Email: ericksonaugustocesardias@gmail.com
+
+
+## 🌱 Atualmente Aprendendo
+
+- Docker
+- AWS
+- TypeScript
+
+## 💡 Curiosidades
+
+- Amante de café ☕️
+- Amo assistir e amante de músicas
+- Devoto da programação em silêncio
+
